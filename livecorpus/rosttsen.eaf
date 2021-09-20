@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T00:16:37+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/рост цен.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:79f20247-703e-4142-9a15-00a4486d0670</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">43</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="11250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="16640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="47270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="47270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="55230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="56170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="60260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="61030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="82460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="83070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="104810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="105440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="128430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="128690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="140910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="141330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="151120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="151820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="179690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="180910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="186790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="187440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="209800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="211100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="213180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="214360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="225390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="226220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="235240"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="yaaanix" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vma1954m" TIER_ID="text@vma1954m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Здравствуйте!//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>В эфире Федеральный Сельсовет/ и я с вами Василий Мельниченко //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>в России рост цен// на всё обогнал даже воображение//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>товарищи бедные/ купите себе еды в последний раз во... #нрзб#//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>рост цен на продовольствие растёт каждый день//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>мы все это видим// если вы зашли в магазин продовольственный/ и захотели купить сегодня моркови/ то она сто рублей/ а свекла- сто пять рублей/ красная свекла - сто пьять рублей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Картофель/ шейсят/ девяносто/ сто// вот так вот// всего лишь борщевой набор/ который всегда определял корзину бедных вот/ еды/ корзину/ ту самую//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Правительство старается не говорить #нрзб# о росте цен/ заменив его на слово усиление цен //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>цены усиляются очень сильно/ и усилились вот//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>иии// это не только то, что мы видим каждый день/ если вы вдруг захотели ремонтировать свою квартиру/ или уже запланировали строить дом и будьте его строить/ то вы просто не усилиться уже от цен попытаетесь и не воображение ваше ничё/ у вас будет шок//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>на строй материалы рост цен сто процентов тоже появился/ на всякие дсп плиты иии// ааа/ другие строительные материалы/ даже на шурупы/ даже просто на гвозди вот/ даже на прошлогодние/ которые на складах вот лежали и никакого отношения к производству нынешнему не имели// рост цен колоссальный вот//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>если мы возьмём общий объём сегодня рынка продовольствия/ то он/ нн...на двадцать первый год составит где-то примерно девятнадцать- двадцать триллионов рублей// ну это же понятно/ что со...сто сорок шесть миллионов человек будут постоянно ходить в магазины и покупать и покупать кушать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>если строиться не все сразу будут/ то/ кушать/ всегда// и также будут заправлять машины большая часть, потому что у нас уже двадцать миллионов машин то в общем то легковых </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>и вот представьте себе/ или посчитайте себе/ уважаемые коллеги/ люди России/ граждане России/ вы просто возьмите и посчитайте//  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Если рынок продовольствия составит двадцать триллионов рублей/ и даже если это усиление так называемый роста цен будет на тридцать процентов/ то из ваших карманов/ беспрецендентно// беспрецендентно государство и торговля ,и всё остальное вытянут из карманов потребителя шесть триллионов рублей/ просто/ на одном усилении цен </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>вы же слышите / как заботится / государство о людях России?//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>как они дают команду остановиться усилению / цен вот / как они на сахар вводят вот какие-то ограничения / как вводят вот на другие продукты/ и при этом/ и при этом вам говорят вот/ что у нас же рекорд / мы же на первом месте / мы / оказывается / уже имеем продовольственную безопасность </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>но мы видим продовольственную опасность!//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ведь если с вас только на продовольствии вытянули шесть триллионов рублей // за считанные месяцы // то сколько бедных сразу стало в России? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ну-ка давайте посчитаем// говорят официально их было двадцать миллионов/ ну девятнадцать некоторая статистика считает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="yaaanix" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation " PARENT_REF="text@vma1954m"
+        PARTICIPANT="@vma1954m" TIER_ID="trans@vma1954m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>There is the federal Village Council in the broadcast and i am with you, Vasiliy Melnichenko</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>the growth for frices for everything in Russia has overtaken even the imagination</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>poor comrades, buy food for the last time </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>the rise for food prices is growing every day </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> We all can see it. If you go to a grocery storeand wanted to buy carrots, it costs a hundred rubles and beets costs a hundred and five rubles. Red beetroot costs one hundred and five rubles.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Potatoes cost sixty or ninety or a hundred rubles. Just like that. That is just a borscht set that has always defined the consumer basket of poor people.That very basket of food.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>The government is trying not to talk about #induadible# the price increase, replacing it with the word 'price strengthening'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Prices are strengthening very strongly and they have already strengthened recently.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>And this is not just what we see every day. If you suddenly want to renovate your flat or have already planned to build a house and will build it, then you just won't try to get stronger already from the prices and your imagination won't do anything, you will have a shock</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>A hundred percent price increase also appeared for construction materials, for all sorts of chipboard boards and other building materials, even for screws, even just for nails, even for last year's ones that were in warehouses and had nothing to do with the current production. The price increase is enormous here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>If we consider the total volume of today's food market, it will amount about nineteen or twenty trillion rubles for the twenty-first year. It is clear that one hundred and forty-six million people will constantly go to stores and buy and buy food.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>If not all of them will build houses at once, but they will always eat and most of them will also fill up the cars, because there are already twenty million cars, in general, passenger cars</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>And just imagine or count , dear colleagues, people of Russia, citizens of Russia,just take and count</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>If the food market amounts twenty trillion rubles and even if this increase in the so-called "price increase" is thirty percent,  the state and trade and everything else will pull six trillion rubles out of the pockets of the consumer just on one price increase without precedent.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Do you hear how the state cares about the people of Russia?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>How they give the command to stop the increase in prices, how they introduce some restrictions on sugar, how they introduce restrictions on other products, and at the same time, and at the same time they tell you that we have a record, we are in the first place, it turns out that we already have food security.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>But we see a food danger!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>if six trillion rubles were extracted from you only for food in a matter of months, so how many poor people immediately became in Russia?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Well, let's count, they say there were twenty million officially, or some statistics count that there were nineteen million of poor people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation " TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_7ed8341a-c42a-45a0-9c50-8fba4b90f7fb">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7fcf3e3c-f765-4b58-b228-c06ad26ecfdd">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bd4ec4b9-ecd8-4163-a6bf-1d6115e7dfab">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fad26a35-3a67-4c68-b9c5-caa9f591cc7f">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c71cb675-ae9d-42a1-9fbf-3c5184a453aa">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5369a6dc-13d1-4cd9-af13-bb9bfbe53868">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6035f1d2-a45c-4379-afcf-83b97b756eb2">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b3ab7e0a-55fa-4825-b630-1f8d74c7cfa5">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d9885035-1a0a-4084-ae6f-11924c973ad4">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f430d666-1fd8-425d-b78c-62c78e2f9501">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f52e93a8-31d7-4700-8e0b-88a23e3e6b4c">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ff40ab60-2704-453b-bde1-b064a9096899">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_adbc9606-de55-4cc2-ae26-91ffa0fe1f14">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b858e450-28b5-4c4b-a821-f252cd7c4884">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cfe69bad-abe4-40d7-83eb-6b82075e8179">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_24392f7a-608a-423b-9b3d-8c9053ca7f5e">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2f8ebf1b-8b75-46b3-9986-e93cd898be88">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
